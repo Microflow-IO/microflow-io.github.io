@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img src="https://github.com/Microflow-IO/microflow-nano/blob/main/docs/github_microflow_B.png" alt="logo" style="float:left; margin-right:10px;" />
+![image-20241128145259754](https://github.com/Microflow-IO/microflow-nano/blob/main/docs/github_microflow_B.png)
 
   
 
