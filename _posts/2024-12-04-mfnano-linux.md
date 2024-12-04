@@ -3,6 +3,7 @@ title: mfnano-linux
 date: 2024-12-04 14:16:00 +0800
 categories: [microflow-nano, mfnano, linux]
 tags: [mfnano, linux]
+description: microflow-nano(mfnano) host traffic analysis probe linux usage.
 ---
 
 # Microflow-nano (mfnano) Deployment Guide
