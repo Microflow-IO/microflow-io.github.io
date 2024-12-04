@@ -1,8 +1,8 @@
 ---
-title: microflow-nano
+title: mfnano-linux
 date: 2024-12-04 14:16:00 +0800
-categories: [microflow-nano, usage]
-tags: [mfnano]
+categories: [microflow-nano, mfnano, linux]
+tags: [mfnano, linux]
 ---
 
 # Microflow-nano (mfnano) Deployment Guide
