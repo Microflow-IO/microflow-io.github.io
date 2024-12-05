@@ -1,3 +1,11 @@
+---
+title: how to effectively deal with lateral movement attacks
+description: how to effectively deal with lateral movement attacks
+date: 2024-12-04 14:16:00 +0800
+categories: [security, "cloud security", "traffic analysis"]
+tags: [lateral-movement, security, attacks, defense, packetbeat]  
+---
+
 # How to effectively deal with lateral movement attacks?
 
 **Leo Young, 12/04/2024** 

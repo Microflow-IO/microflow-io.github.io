@@ -1,3 +1,11 @@
+---
+title: why do we want to make Nano
+description: Traffic analysis is a very traditional broad technology stack, covering many subdivision scenarios such as operation and maintenance monitoring and risk detection. There are a variety of programs and products, which seems to have little demand and innovation opportunities;
+date: 2024-12-02 14:16:00 +0800
+categories: [security, "cloud security", "traffic analysis"]
+tags: [lateral-movement, security, attacks, defense, packetbeat]  
+---
+
 # Why do we want to make Nano?
 
 **Leo Young, 12/04/2024** 

@@ -1,16 +1,10 @@
-layout: post
-
-title: "How to Effectively Deal with Lateral Movement Attacks"
-
-date: 2024-12-04
-
-categories: [security, cloud security, traffic analysis]
-
+---
+title: How to Effectively Deal with Lateral Movement Attacks
+description: How to Effectively Deal with Lateral Movement Attacks
+date: 2024-12-01 14:16:00 +0800
+categories: [security, "cloud security", "traffic analysis"]
 tags: [lateral-movement, security, attacks, defense, packetbeat]  
-
-
-
-
+---
 
 # Why are there so few projects like Nano?
 
